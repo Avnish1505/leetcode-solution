@@ -67,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
