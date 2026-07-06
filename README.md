@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 ## Math
 |  |
@@ -109,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [1046-last-stone-weight](https://github.com/Avnish1505/leetcode-solution/tree/master/1046-last-stone-weight) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
