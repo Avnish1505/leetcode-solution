@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Avnish1505/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [1046-last-stone-weight](https://github.com/Avnish1505/leetcode-solution/tree/master/1046-last-stone-weight) |
 ## Backtracking
