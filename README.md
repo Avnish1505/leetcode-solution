@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/Avnish1505/leetcode-solution/tree/master/0886-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/Avnish1505/leetcode-solution/tree/master/0886-possible-bipartition) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
+| [0886-possible-bipartition](https://github.com/Avnish1505/leetcode-solution/tree/master/0886-possible-bipartition) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/Avnish1505/leetcode-solution/tree/master/0886-possible-bipartition) |
 ## Matrix
 |  |
 | ------- |
