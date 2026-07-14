@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Avnish1505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0400-nth-digit](https://github.com/Avnish1505/leetcode-solution/tree/master/0400-nth-digit) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Avnish1505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Avnish1505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/Avnish1505/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
