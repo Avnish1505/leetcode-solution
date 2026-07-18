@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Avnish1505/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/Avnish1505/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1696-jump-game-vi](https://github.com/Avnish1505/leetcode-solution/tree/master/1696-jump-game-vi) |
 ## Backtracking
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0899-orderly-queue](https://github.com/Avnish1505/leetcode-solution/tree/master/0899-orderly-queue) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/Avnish1505/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 ## Queue
 |  |
 | ------- |
