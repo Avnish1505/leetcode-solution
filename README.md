@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Avnish1505/leetcode-solution/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
 |  |
 | ------- |
