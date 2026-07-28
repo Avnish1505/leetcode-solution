@@ -1,0 +1,17 @@
+class Solution:
+    def findPoisonedDuration(self, timeSeries: list[int], duration: int) -> int:
+        if not timeSeries or duration == 0:
+            return 0
+            
+        total_time = 0
+        
+        # Pehle attack se lekar second-last attack tak check karo
+        for i in range(len(timeSeries) - 1):
+            gap = timeSeries[i + 1] - timeSeries[i]
+            # Time gap aur duration mein se jo chota ho, wahi add hoga
+            total_time += min(gap, duration)
+            
+        # Aakhri attack hamesha full duration ke liye poison karega
+        total_time += duration
+        
+        return total_time
