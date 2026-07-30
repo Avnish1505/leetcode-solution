@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Avnish1505/leetcode-solution/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avnish1505/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/1143-longest-common-subsequence) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0518-coin-change-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
 | ------- |
