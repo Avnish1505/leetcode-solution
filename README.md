@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Avnish1505/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
+| [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
+| [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
