@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
 | [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Avnish1505/leetcode-solution/tree/master/0091-decode-ways) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Avnish1505/leetcode-solution/tree/master/0207-course-schedule) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
