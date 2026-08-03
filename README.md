@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Avnish1505/leetcode-solution/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Avnish1505/leetcode-solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0097-interleaving-string) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
