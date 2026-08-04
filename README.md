@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Avnish1505/leetcode-solution/tree/master/0938-range-sum-of-bst) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Graph Theory
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1550-three-consecutive-odds](https://github.com/Avnish1505/leetcode-solution/tree/master/1550-three-consecutive-odds) |
 | [1696-jump-game-vi](https://github.com/Avnish1505/leetcode-solution/tree/master/1696-jump-game-vi) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,4 +258,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 <!---LeetCode Topics End-->
