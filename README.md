@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
+| [0853-car-fleet](https://github.com/Avnish1505/leetcode-solution/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avnish1505/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0853-car-fleet](https://github.com/Avnish1505/leetcode-solution/tree/master/0853-car-fleet) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Avnish1505/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0853-car-fleet](https://github.com/Avnish1505/leetcode-solution/tree/master/0853-car-fleet) |
 | [0899-orderly-queue](https://github.com/Avnish1505/leetcode-solution/tree/master/0899-orderly-queue) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Avnish1505/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/Avnish1505/leetcode-solution/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
