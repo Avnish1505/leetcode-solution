@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Avnish1505/leetcode-solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Avnish1505/leetcode-solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Avnish1505/leetcode-solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Avnish1505/leetcode-solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Avnish1505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/Avnish1505/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
@@ -302,4 +306,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Avnish1505/leetcode-solution/tree/master/0292-nim-game) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
