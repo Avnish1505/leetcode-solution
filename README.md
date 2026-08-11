@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Avnish1505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/Avnish1505/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0886-possible-bipartition](https://github.com/Avnish1505/leetcode-solution/tree/master/0886-possible-bipartition) |
 ## Matrix
