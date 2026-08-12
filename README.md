@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Avnish1505/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Avnish1505/leetcode-solution/tree/master/0207-course-schedule) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Avnish1505/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Avnish1505/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
