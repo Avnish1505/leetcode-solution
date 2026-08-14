@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Topological Sort
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Monotonic Stack
 |  |
