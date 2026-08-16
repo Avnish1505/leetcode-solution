@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Avnish1505/leetcode-solution/tree/master/0292-nim-game) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/Avnish1505/leetcode-solution/tree/master/0400-nth-digit) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0899-orderly-queue](https://github.com/Avnish1505/leetcode-solution/tree/master/0899-orderly-queue) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Avnish1505/leetcode-solution/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
@@ -348,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
