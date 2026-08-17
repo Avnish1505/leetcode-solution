@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0518-coin-change-ii) |
+| [0566-reshape-the-matrix](https://github.com/Avnish1505/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avnish1505/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Avnish1505/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/Avnish1505/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Avnish1505/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Avnish1505/leetcode-solution/tree/master/1260-shift-2d-grid) |
