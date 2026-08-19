@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0393-utf-8-validation](https://github.com/Avnish1505/leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Avnish1505/leetcode-solution/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/Avnish1505/leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
