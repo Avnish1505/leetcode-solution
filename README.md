@@ -393,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Avnish1505/leetcode-solution/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
