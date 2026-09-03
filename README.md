@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Avnish1505/leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Avnish1505/leetcode-solution/tree/master/1550-three-consecutive-odds) |
 | [1696-jump-game-vi](https://github.com/Avnish1505/leetcode-solution/tree/master/1696-jump-game-vi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Avnish1505/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Topological Sort
 |  |
 | ------- |
