@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Avnish1505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/Avnish1505/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Avnish1505/leetcode-solution/tree/master/0400-nth-digit) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Avnish1505/leetcode-solution/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Avnish1505/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/Avnish1505/leetcode-solution/tree/master/0400-nth-digit) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
