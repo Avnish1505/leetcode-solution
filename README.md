@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/Avnish1505/leetcode-solution/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Avnish1505/leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Avnish1505/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0169-majority-element) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Avnish1505/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
@@ -422,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Avnish1505/leetcode-solution/tree/master/0197-rising-temperature) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Avnish1505/leetcode-solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Avnish1505/leetcode-solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
