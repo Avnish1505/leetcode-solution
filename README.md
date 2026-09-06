@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Avnish1505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avnish1505/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/Avnish1505/leetcode-solution/tree/master/0367-valid-perfect-square) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avnish1505/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avnish1505/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0541-reverse-string-ii) |
