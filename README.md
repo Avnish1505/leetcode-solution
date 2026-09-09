@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Avnish1505/leetcode-solution/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Avnish1505/leetcode-solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Avnish1505/leetcode-solution/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0886-possible-bipartition](https://github.com/Avnish1505/leetcode-solution/tree/master/0886-possible-bipartition) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Avnish1505/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Avnish1505/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
