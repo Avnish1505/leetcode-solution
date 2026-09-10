@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Avnish1505/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
+| [0263-ugly-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Avnish1505/leetcode-solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Avnish1505/leetcode-solution/tree/master/0367-valid-perfect-square) |
