@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/Avnish1505/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avnish1505/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avnish1505/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0541-reverse-string-ii) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
 ## Brainteaser
 |  |
 | ------- |
