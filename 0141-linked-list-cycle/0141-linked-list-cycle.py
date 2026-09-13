@@ -24,3 +24,6 @@ class Solution:
                 
         # Agar loop se baahar aa gaye matlab fast None tak pahunch gaya (No cycle)
         return False
+
+        # time complexity = 0(n)
+        # space complexity = 0(1)
