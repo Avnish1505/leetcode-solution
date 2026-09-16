@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Avnish1505/leetcode-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
