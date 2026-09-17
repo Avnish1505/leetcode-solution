@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/Avnish1505/leetcode-solution/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/Avnish1505/leetcode-solution/tree/master/0899-orderly-queue) |
 | [1143-longest-common-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/1143-longest-common-subsequence) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avnish1505/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0804-unique-morse-code-words) |
 | [0853-car-fleet](https://github.com/Avnish1505/leetcode-solution/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
