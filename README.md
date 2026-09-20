@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Avnish1505/leetcode-solution/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Avnish1505/leetcode-solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Avnish1505/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Avnish1505/leetcode-solution/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Avnish1505/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0392-is-subsequence) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Avnish1505/leetcode-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/Avnish1505/leetcode-solution/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
