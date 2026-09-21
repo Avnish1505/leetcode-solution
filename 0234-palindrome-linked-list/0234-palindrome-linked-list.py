@@ -21,6 +21,12 @@ class Solution:
             curr.next = prev
             prev = curr
             curr = next
+            # 1 2 3 4
+            #     s
+            #          f 
+            # 3 4
+            # return False
+
 
         first = head
         second = prev 
