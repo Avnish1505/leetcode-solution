@@ -26,6 +26,8 @@ class Solution:
             #          f 
             # 3 4
             # return False
+            # t.c = 0(n)
+            # s.c = (1)
 
 
         first = head
