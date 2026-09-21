@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avnish1505/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Avnish1505/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Avnish1505/leetcode-solution/tree/master/0400-nth-digit) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0393-utf-8-validation](https://github.com/Avnish1505/leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Avnish1505/leetcode-solution/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Avnish1505/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Avnish1505/leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avnish1505/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -469,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Avnish1505/leetcode-solution/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
