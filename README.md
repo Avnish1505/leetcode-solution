@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Avnish1505/leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Avnish1505/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0853-car-fleet](https://github.com/Avnish1505/leetcode-solution/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
 ## String Matching
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avnish1505/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
