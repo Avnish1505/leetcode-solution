@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0804-unique-morse-code-words) |
 | [0853-car-fleet](https://github.com/Avnish1505/leetcode-solution/tree/master/0853-car-fleet) |
 | [0870-advantage-shuffle](https://github.com/Avnish1505/leetcode-solution/tree/master/0870-advantage-shuffle) |
+| [0896-monotonic-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Avnish1505/leetcode-solution/tree/master/1046-last-stone-weight) |
