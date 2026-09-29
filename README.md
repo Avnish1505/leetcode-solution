@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/Avnish1505/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Avnish1505/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avnish1505/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0804-unique-morse-code-words) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Avnish1505/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avnish1505/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
