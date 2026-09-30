@@ -16,3 +16,5 @@ class Solution:
         #                    j
         #.  {,  ,  , ,  ,  , } 
         #   max_len = 4
+        # time = 0(n)
+        # space complexity = 0(n)
