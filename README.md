@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Avnish1505/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Avnish1505/leetcode-solution/tree/master/0299-bulls-and-cows) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Avnish1505/leetcode-solution/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0393-utf-8-validation](https://github.com/Avnish1505/leetcode-solution/tree/master/0393-utf-8-validation) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Avnish1505/leetcode-solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/Avnish1505/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Avnish1505/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Avnish1505/leetcode-solution/tree/master/0273-integer-to-english-words) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avnish1505/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -510,4 +515,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
