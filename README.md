@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Avnish1505/leetcode-solution/tree/master/0289-game-of-life) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Avnish1505/leetcode-solution/tree/master/0393-utf-8-validation) |
 | [0457-circular-array-loop](https://github.com/Avnish1505/leetcode-solution/tree/master/0457-circular-array-loop) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Avnish1505/leetcode-solution/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Avnish1505/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Avnish1505/leetcode-solution/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Avnish1505/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Avnish1505/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
