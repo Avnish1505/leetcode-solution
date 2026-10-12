@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Avnish1505/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Avnish1505/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avnish1505/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1550-three-consecutive-odds](https://github.com/Avnish1505/leetcode-solution/tree/master/1550-three-consecutive-odds) |
 | [1696-jump-game-vi](https://github.com/Avnish1505/leetcode-solution/tree/master/1696-jump-game-vi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Avnish1505/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Avnish1505/leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avnish1505/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avnish1505/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
