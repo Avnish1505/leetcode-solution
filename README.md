@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Avnish1505/leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Avnish1505/leetcode-solution/tree/master/0938-range-sum-of-bst) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Avnish1505/leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avnish1505/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1550-three-consecutive-odds](https://github.com/Avnish1505/leetcode-solution/tree/master/1550-three-consecutive-odds) |
 | [1696-jump-game-vi](https://github.com/Avnish1505/leetcode-solution/tree/master/1696-jump-game-vi) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Avnish1505/leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avnish1505/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Avnish1505/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Avnish1505/leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Avnish1505/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Avnish1505/leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3904-smallest-stable-index-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Avnish1505/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Avnish1505/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avnish1505/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Avnish1505/leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Avnish1505/leetcode-solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avnish1505/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
@@ -505,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0870-advantage-shuffle](https://github.com/Avnish1505/leetcode-solution/tree/master/0870-advantage-shuffle) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Avnish1505/leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Database
 |  |
