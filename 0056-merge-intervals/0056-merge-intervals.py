@@ -27,3 +27,5 @@ class Solution:
                 merged[-1][1] = max(merged[-1][1], current[1])
                 
         return merged
+        # time complexity = o(nlogn)
+        #space complexity = o(n)
