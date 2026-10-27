@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Avnish1505/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Avnish1505/leetcode-solution/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/Avnish1505/leetcode-solution/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Avnish1505/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Avnish1505/leetcode-solution/tree/master/1094-car-pooling) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Avnish1505/leetcode-solution/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/Avnish1505/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avnish1505/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Avnish1505/leetcode-solution/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Avnish1505/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Avnish1505/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
+| [0986-interval-list-intersections](https://github.com/Avnish1505/leetcode-solution/tree/master/0986-interval-list-intersections) |
 ## Euclidean Algorithm
 |  |
 | ------- |
