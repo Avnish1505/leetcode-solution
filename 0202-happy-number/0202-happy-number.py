@@ -23,3 +23,5 @@ class Solution:
             fast = get_next(get_next(fast))
         
         return fast == 1
+        # time complexity = 0(n)
+        #space complexity = 0(n)
