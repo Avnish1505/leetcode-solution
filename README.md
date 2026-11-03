@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Avnish1505/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Avnish1505/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Avnish1505/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0796-rotate-string) |
 ## Hash Function
@@ -562,8 +564,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
+| [0459-repeated-substring-pattern](https://github.com/Avnish1505/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Avnish1505/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Avnish1505/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
