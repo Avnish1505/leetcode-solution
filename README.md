@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/Avnish1505/leetcode-solution/tree/master/0400-nth-digit) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Avnish1505/leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
+| [0598-range-addition-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0598-range-addition-ii) |
 | [0899-orderly-queue](https://github.com/Avnish1505/leetcode-solution/tree/master/0899-orderly-queue) |
 ## Dynamic Programming
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/Avnish1505/leetcode-solution/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avnish1505/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Avnish1505/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Avnish1505/leetcode-solution/tree/master/0695-max-area-of-island) |
