@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Avnish1505/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/Avnish1505/leetcode-solution/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/Avnish1505/leetcode-solution/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/Avnish1505/leetcode-solution/tree/master/0391-perfect-rectangle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Avnish1505/leetcode-solution/tree/master/0454-4sum-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Avnish1505/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avnish1505/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Avnish1505/leetcode-solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avnish1505/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Avnish1505/leetcode-solution/tree/master/0443-string-compression) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Avnish1505/leetcode-solution/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Avnish1505/leetcode-solution/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Avnish1505/leetcode-solution/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avnish1505/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Avnish1505/leetcode-solution/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
