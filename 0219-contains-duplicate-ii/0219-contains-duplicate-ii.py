@@ -14,6 +14,7 @@ class Solution:
         #.  0 1  2  3
         #.  i
         #.          j
-
+       #  { 1, 2 , 3, 1}
+       # return True
     # time complexity = 0(n)
     # space complexity = 0(k)
