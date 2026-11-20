@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avnish1505/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/Avnish1505/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Avnish1505/leetcode-solution/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Avnish1505/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Avnish1505/leetcode-solution/tree/master/0400-nth-digit) |
 | [0475-heaters](https://github.com/Avnish1505/leetcode-solution/tree/master/0475-heaters) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Avnish1505/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -582,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Avnish1505/leetcode-solution/tree/master/0459-repeated-substring-pattern) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Avnish1505/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
